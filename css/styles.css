@@ -19,12 +19,13 @@ body {
 }
 
 .card h1 {
+    color: #5f0ded;
     margin: 0;
     font-size: 24px;
 }
 
 .card p {
-    color: #666;
+    color: #000000;
     margin: 5px 0;
 }
 
